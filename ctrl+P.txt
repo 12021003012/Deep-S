@@ -1,0 +1,2 @@
+ ctrl+P
+ ext install ritwickdey.liveserver
